@@ -1,0 +1,19 @@
+/* AI Hub 插件样式 */
+
+.ai-hub-tab-btn {
+    transition: all 0.15s ease;
+}
+
+.ai-hub-tab-btn:hover {
+    background: var(--background-modifier-hover) !important;
+}
+
+.ai-hub-tool-ball:hover {
+    transform: scale(1.08);
+    filter: brightness(1.05);
+}
+
+/* 确保滚动区域无内边距，按钮紧贴边框 */
+.ai-hub-tab-scroll-area {
+    padding-left: 0 !important;
+}
