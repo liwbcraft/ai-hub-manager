@@ -1,9 +1,9 @@
 {
   "id": "ai-hub-manager",
   "name": "AI Hub Manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minAppVersion": "0.15.0",
-  "description": "Aggregate multiple AI assistants in Obsidian, switch and access with one click.",
+  "description": "Aggregate multiple AI assistants, switch and access with one click.",
   "author": "liwbcraft",
   "authorUrl": "https://liwbcraft.github.io",
   "fundingUrl": {
