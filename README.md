@@ -6,7 +6,7 @@
 
 ## 中文
 
-![Obsidian 插件](https://img.shields.io/badge/Obsidian-Plugin-purple) ![版本](https://img.shields.io/badge/version-1.0.0-blue)
+![Obsidian 插件](https://img.shields.io/badge/Obsidian-Plugin-purple) ![版本](https://img.shields.io/badge/version-1.0.2-blue)
 
 ### 📖 简介
 
@@ -42,7 +42,7 @@ AI Hub Manager 是一个 Obsidian 插件，让你可以在 Obsidian 中一站式
 
 ### 🚀 使用说明
 
-1. 点击左侧功能区机器人图标 🤖，或通过命令面板执行 **打开 AI Hub**
+1. 点击左侧功能区机器人图标 🤖，或通过命令面板执行 **打开 AI Hub Manager**
 2. 点击顶部标签切换不同 AI 助手
 3. 需要弹窗打开的 AI 会显示占位符，点击按钮即可在新窗口打开
 4. 在插件设置中可：
@@ -115,7 +115,7 @@ AI Hub Manager is an Obsidian plugin that allows you to access and manage multip
 
 1. Open Obsidian Settings → **Third-party plugins** → **Community plugins**
 2. Turn off **Safe mode**
-3. Click **Browse** and search for "AI Hub Manager "
+3. Click **Browse** and search for "AI Hub Manager"
 4. Install and enable the plugin
 
 #### Manual Installation
@@ -126,7 +126,7 @@ AI Hub Manager is an Obsidian plugin that allows you to access and manage multip
 
 ### 🚀 Usage
 
-1. Click the robot icon 🤖 in the left ribbon, or use the command palette to execute **Open AI Hub**
+1. Click the robot icon 🤖 in the left ribbon, or use the command palette to execute **Open AI Hub Manager**
 2. Click tabs at the top to switch between different AI assistants
 3. AIs requiring popup mode will show a placeholder - click the button to open in a new window
 4. In plugin settings, you can:
