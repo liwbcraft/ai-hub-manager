@@ -90,7 +90,7 @@ MIT
 
 ## English
 
-![Obsidian Plugin](https://img.shields.io/badge/Obsidian-Plugin-purple) ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Obsidian Plugin](https://img.shields.io/badge/Obsidian-Plugin-purple) ![Version](https://img.shields.io/badge/version-1.0.2-blue)
 
 ### 📖 Introduction
 
